@@ -1,7 +1,7 @@
 ### Bookly
 ### E-commerce website using Html, Css and JavaScript.
 
-![E-commerce website](https://github.com/shrimon347/martyan/blob/master/Capture.PNG?raw=true)
+![E-commerce website](https://github.com/shrimon347/bookly/blob/main/Capture.PNG?raw=true)
 
 #### Demo:[View the site](https://shrimon347.github.io/bookly/)
 
